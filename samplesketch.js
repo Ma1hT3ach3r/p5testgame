@@ -12,4 +12,5 @@ function draw() {
     ellipse(mouseX+i,mouseY+i,10,10);
     }
   }
+      ellipse(mouseX,mouseY,100,100);
 }
